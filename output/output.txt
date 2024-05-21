@@ -1,0 +1,228 @@
+Process P2 is assigned to CPU-1.
+Process P2 starts at time 0.
+Process P2 completes at time 16.
+Process P2 is completed and terminated.
+Process P2 releases RAM.
+Process P4 is assigned to CPU-1.
+Process P4 starts at time 16.
+Process P4 completes at time 19.
+Process P4 is completed and terminated.
+Process P4 releases RAM.
+Process P7 is assigned to CPU-1.
+Process P7 starts at time 19.
+Process P7 completes at time 23.
+Process P7 is completed and terminated.
+Process P7 releases RAM.
+Process P8 is assigned to CPU-1.
+Process P8 starts at time 23.
+Process P8 completes at time 27.
+Process P8 is completed and terminated.
+Process P8 releases RAM.
+Process P9 is assigned to CPU-1.
+Process P9 starts at time 27.
+Process P9 completes at time 29.
+Process P9 is completed and terminated.
+Process P9 releases RAM.
+Process P11 is assigned to CPU-1.
+Process P11 starts at time 29.
+Process P11 completes at time 32.
+Process P11 is completed and terminated.
+Process P11 releases RAM.
+Process P17 is assigned to CPU-1.
+Process P17 starts at time 32.
+Process P17 completes at time 36.
+Process P17 is completed and terminated.
+Process P17 releases RAM.
+Process P18 is assigned to CPU-1.
+Process P18 starts at time 36.
+Process P18 completes at time 40.
+Process P18 is completed and terminated.
+Process P18 releases RAM.
+Process P20 is assigned to CPU-1.
+Process P20 starts at time 40.
+Process P20 completes at time 44.
+Process P20 is completed and terminated.
+Process P20 releases RAM.
+Process P1 is assigned to CPU-2.
+Process P1 starts at time 44.
+Process P1 completes at time 46.
+Process P1 is completed and terminated.
+Process P1 releases RAM.
+Process P25 is assigned to CPU-2.
+Process P25 starts at time 46.
+Process P25 completes at time 48.
+Process P25 is completed and terminated.
+Process P25 releases RAM.
+Process P15 is assigned to CPU-2.
+Process P15 starts at time 48.
+Process P15 completes at time 52.
+Process P15 is completed and terminated.
+Process P15 releases RAM.
+Process P14 is assigned to CPU-2.
+Process P14 starts at time 52.
+Process P14 completes at time 78.
+Process P14 is completed and terminated.
+Process P14 releases RAM.
+Process P5 is assigned to CPU-2.
+Process P5 starts at time 78.
+Process P5 completes at time 80.
+Process P5 is completed and terminated.
+Process P5 releases RAM.
+Process P5 releases RAM.
+Process P6 is assigned to CPU-2.
+Process P6 starts at time 80.
+Process P6 completes at time 83.
+Process P6 is completed and terminated.
+Process P6 releases RAM.
+Process P6 releases RAM.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 83.
+Process P10 completes at time 127.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 is queued due to insufficient RAM.
+Process P10 run until the defined quantum time and is queued again because the process is not completed.
+Process P19 is assigned to CPU-2.
+Process P19 starts at time 127.
+Process P19 completes at time 156.
+Process P19 is completed and terminated.
+Process P19 releases RAM.
+Process P19 is queued due to insufficient RAM.
+Process P19 run until the defined quantum time and is queued again because the process is not completed.
+Process P23 is assigned to CPU-2.
+Process P23 starts at time 156.
+Process P23 completes at time 159.
+Process P23 is completed and terminated.
+Process P23 releases RAM.
+Process P23 releases RAM.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 159.
+Process P10 completes at time 203.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 is queued due to insufficient RAM.
+Process P10 run until the defined quantum time and is queued again because the process is not completed.
+Process P19 is assigned to CPU-2.
+Process P19 starts at time 203.
+Process P19 completes at time 232.
+Process P19 is completed and terminated.
+Process P19 releases RAM.
+Process P19 is queued due to insufficient RAM.
+Process P19 run until the defined quantum time and is queued again because the process is not completed.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 232.
+Process P10 completes at time 276.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 is queued due to insufficient RAM.
+Process P10 run until the defined quantum time and is queued again because the process is not completed.
+Process P19 is assigned to CPU-2.
+Process P19 starts at time 276.
+Process P19 completes at time 305.
+Process P19 is completed and terminated.
+Process P19 releases RAM.
+Process P19 is queued due to insufficient RAM.
+Process P19 run until the defined quantum time and is queued again because the process is not completed.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 305.
+Process P10 completes at time 349.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 is queued due to insufficient RAM.
+Process P10 run until the defined quantum time and is queued again because the process is not completed.
+Process P19 is assigned to CPU-2.
+Process P19 starts at time 349.
+Process P19 completes at time 378.
+Process P19 is completed and terminated.
+Process P19 releases RAM.
+Process P19 releases RAM.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 378.
+Process P10 completes at time 422.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 is queued due to insufficient RAM.
+Process P10 run until the defined quantum time and is queued again because the process is not completed.
+Process P10 is assigned to CPU-2.
+Process P10 starts at time 422.
+Process P10 completes at time 466.
+Process P10 is completed and terminated.
+Process P10 releases RAM.
+Process P10 releases RAM.
+Process P3 is assigned to CPU-2.
+Process P3 starts at time 466.
+Process P3 completes at time 528.
+Process P3 is completed and terminated.
+Process P3 releases RAM.
+Process P3 is queued due to insufficient RAM.
+Process P3 run until the defined quantum time and is queued again because the process is not completed.
+Process P12 is assigned to CPU-2.
+Process P12 starts at time 528.
+Process P12 completes at time 560.
+Process P12 is completed and terminated.
+Process P12 releases RAM.
+Process P12 is queued due to insufficient RAM.
+Process P12 run until the defined quantum time and is queued again because the process is not completed.
+Process P13 is assigned to CPU-2.
+Process P13 starts at time 560.
+Process P13 completes at time 562.
+Process P13 is completed and terminated.
+Process P13 releases RAM.
+Process P13 releases RAM.
+Process P16 is assigned to CPU-2.
+Process P16 starts at time 562.
+Process P16 completes at time 566.
+Process P16 is completed and terminated.
+Process P16 releases RAM.
+Process P16 releases RAM.
+Process P21 is assigned to CPU-2.
+Process P21 starts at time 566.
+Process P21 completes at time 569.
+Process P21 is completed and terminated.
+Process P21 releases RAM.
+Process P21 releases RAM.
+Process P22 is assigned to CPU-2.
+Process P22 starts at time 569.
+Process P22 completes at time 594.
+Process P22 is completed and terminated.
+Process P22 releases RAM.
+Process P22 is queued due to insufficient RAM.
+Process P22 run until the defined quantum time and is queued again because the process is not completed.
+Process P24 is assigned to CPU-2.
+Process P24 starts at time 594.
+Process P24 completes at time 596.
+Process P24 is completed and terminated.
+Process P24 releases RAM.
+Process P24 releases RAM.
+Process P3 is assigned to CPU-2.
+Process P3 starts at time 596.
+Process P3 completes at time 658.
+Process P3 is completed and terminated.
+Process P3 releases RAM.
+Process P3 is queued due to insufficient RAM.
+Process P3 run until the defined quantum time and is queued again because the process is not completed.
+Process P12 is assigned to CPU-2.
+Process P12 starts at time 658.
+Process P12 completes at time 690.
+Process P12 is completed and terminated.
+Process P12 releases RAM.
+Process P12 releases RAM.
+Process P22 is assigned to CPU-2.
+Process P22 starts at time 690.
+Process P22 completes at time 715.
+Process P22 is completed and terminated.
+Process P22 releases RAM.
+Process P22 releases RAM.
+Process P3 is assigned to CPU-2.
+Process P3 starts at time 715.
+Process P3 completes at time 777.
+Process P3 is completed and terminated.
+Process P3 releases RAM.
+Process P3 is queued due to insufficient RAM.
+Process P3 run until the defined quantum time and is queued again because the process is not completed.
+Process P3 is assigned to CPU-2.
+Process P3 starts at time 777.
+Process P3 completes at time 839.
+Process P3 is completed and terminated.
+Process P3 releases RAM.
+Process P3 releases RAM.

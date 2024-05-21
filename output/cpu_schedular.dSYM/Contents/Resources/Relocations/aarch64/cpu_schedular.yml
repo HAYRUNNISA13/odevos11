@@ -1,0 +1,24 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hayrunnisacelik/Documents/operating systme/odevos11/output/cpu_schedular'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _initialize_queue, symObjAddr: 0x0, symBinAddr: 0x100002CD8, symSize: 0x20 }
+  - { offsetInCU: 0x4D, offset: 0x4D, size: 0x8, addend: 0x0, symName: _current_time, symObjAddr: 0x346C, symBinAddr: 0x100008000, symSize: 0x0 }
+  - { offsetInCU: 0xED, offset: 0xED, size: 0x8, addend: 0x0, symName: _initialize_queue, symObjAddr: 0x0, symBinAddr: 0x100002CD8, symSize: 0x20 }
+  - { offsetInCU: 0x111, offset: 0x111, size: 0x8, addend: 0x0, symName: _is_queue_empty, symObjAddr: 0x20, symBinAddr: 0x100002CF8, symSize: 0x24 }
+  - { offsetInCU: 0x139, offset: 0x139, size: 0x8, addend: 0x0, symName: _enqueue, symObjAddr: 0x44, symBinAddr: 0x100002D1C, symSize: 0xA4 }
+  - { offsetInCU: 0x179, offset: 0x179, size: 0x8, addend: 0x0, symName: _dequeue, symObjAddr: 0xE8, symBinAddr: 0x100002DC0, symSize: 0x90 }
+  - { offsetInCU: 0x1BD, offset: 0x1BD, size: 0x8, addend: 0x0, symName: _release_ram, symObjAddr: 0x178, symBinAddr: 0x100002E50, symSize: 0x58 }
+  - { offsetInCU: 0x1FD, offset: 0x1FD, size: 0x8, addend: 0x0, symName: _print_process_assigned, symObjAddr: 0x1D0, symBinAddr: 0x100002EA8, symSize: 0x4C }
+  - { offsetInCU: 0x23D, offset: 0x23D, size: 0x8, addend: 0x0, symName: _print_process_completed, symObjAddr: 0x21C, symBinAddr: 0x100002EF4, symSize: 0x3C }
+  - { offsetInCU: 0x26F, offset: 0x26F, size: 0x8, addend: 0x0, symName: _sort_processes_by_arrival, symObjAddr: 0x258, symBinAddr: 0x100002F30, symSize: 0x104 }
+  - { offsetInCU: 0x2F5, offset: 0x2F5, size: 0x8, addend: 0x0, symName: _sort_processes_by_burst_time, symObjAddr: 0x35C, symBinAddr: 0x100003034, symSize: 0x104 }
+  - { offsetInCU: 0x37B, offset: 0x37B, size: 0x8, addend: 0x0, symName: _check_ram_availability, symObjAddr: 0x460, symBinAddr: 0x100003138, symSize: 0x2C }
+  - { offsetInCU: 0x3B1, offset: 0x3B1, size: 0x8, addend: 0x0, symName: _assign_process, symObjAddr: 0x48C, symBinAddr: 0x100003164, symSize: 0xDC }
+  - { offsetInCU: 0x3FF, offset: 0x3FF, size: 0x8, addend: 0x0, symName: _handle_insufficient_ram, symObjAddr: 0x568, symBinAddr: 0x100003240, symSize: 0x50 }
+  - { offsetInCU: 0x43F, offset: 0x43F, size: 0x8, addend: 0x0, symName: _assign_processes, symObjAddr: 0x5B8, symBinAddr: 0x100003290, symSize: 0xF0 }
+  - { offsetInCU: 0x4D3, offset: 0x4D3, size: 0x8, addend: 0x0, symName: _fcfs_scheduler, symObjAddr: 0x6A8, symBinAddr: 0x100003380, symSize: 0xDC }
+  - { offsetInCU: 0x54B, offset: 0x54B, size: 0x8, addend: 0x0, symName: _sjf_scheduler, symObjAddr: 0x784, symBinAddr: 0x10000345C, symSize: 0x184 }
+  - { offsetInCU: 0x5FD, offset: 0x5FD, size: 0x8, addend: 0x0, symName: _rr_scheduler, symObjAddr: 0x908, symBinAddr: 0x1000035E0, symSize: 0x3A8 }
+  - { offsetInCU: 0x6C9, offset: 0x6C9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xCB0, symBinAddr: 0x100003988, symSize: 0x304 }
+...
